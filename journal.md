@@ -1,3 +1,4 @@
 - Jul 01: scratch
 - Jul 01: commands
 - Jul 01: refs
+- Jul 01: todo
