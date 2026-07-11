@@ -5,3 +5,4 @@
 - Jul 09: notes
 - Jul 10: todo
 - Jul 10: commands
+- Jul 10: links
