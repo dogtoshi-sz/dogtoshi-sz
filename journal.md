@@ -4,3 +4,4 @@
 - Jul 01: todo
 - Jul 09: notes
 - Jul 10: todo
+- Jul 10: commands
