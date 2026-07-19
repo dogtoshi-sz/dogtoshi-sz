@@ -6,3 +6,4 @@
 - Jul 10: todo
 - Jul 10: commands
 - Jul 10: links
+- Jul 18: links
