@@ -8,3 +8,4 @@
 - Jul 10: links
 - Jul 18: links
 - Jul 24: notes
+- Jul 24: snippets
