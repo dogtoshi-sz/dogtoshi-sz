@@ -17,4 +17,3 @@ curl "https://api.trenchy.tools/api/create-api-key?label=my-agent"
 - [wallet-mover](https://github.com/Trenchy-Tools/wallet-mover) — wallet tooling
 
 Agents: `openclaw skills install trenchytools`
-
