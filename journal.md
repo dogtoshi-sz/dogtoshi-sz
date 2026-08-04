@@ -14,3 +14,4 @@
 - Jul 26: links
 - Jul 26: commands
 - Aug 03: scratch
+- Aug 03: links
