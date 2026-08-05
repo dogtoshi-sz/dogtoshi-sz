@@ -19,3 +19,4 @@
 - Aug 03: notes
 - Aug 04: refs
 - Aug 04: commands
+- Aug 04: links
