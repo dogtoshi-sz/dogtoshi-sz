@@ -20,3 +20,4 @@
 - Aug 04: refs
 - Aug 04: commands
 - Aug 04: links
+- Aug 04: ideas
