@@ -28,3 +28,4 @@
 - Aug 10: todo
 - Aug 10: refs
 - Aug 10: ideas
+- Aug 10: scratch
