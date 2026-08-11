@@ -27,3 +27,4 @@
 - Aug 04: links
 - Aug 10: todo
 - Aug 10: refs
+- Aug 10: ideas
