@@ -30,3 +30,4 @@
 - Aug 10: ideas
 - Aug 10: scratch
 - Aug 11: scratch
+- Aug 12: links
