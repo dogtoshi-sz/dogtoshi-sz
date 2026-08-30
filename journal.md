@@ -32,3 +32,4 @@
 - Aug 11: scratch
 - Aug 12: links
 - Aug 26: todo
+- Aug 30: snippets
