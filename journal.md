@@ -34,3 +34,4 @@
 - Aug 26: todo
 - Aug 30: snippets
 - Aug 30: notes
+- Sep 03: snippets
