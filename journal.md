@@ -35,3 +35,4 @@
 - Aug 30: snippets
 - Aug 30: notes
 - Sep 03: snippets
+- Sep 07: notes
