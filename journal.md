@@ -37,3 +37,4 @@
 - Sep 03: snippets
 - Sep 07: notes
 - Sep 09: refs
+- Sep 09: snippets
