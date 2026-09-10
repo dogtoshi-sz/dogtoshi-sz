@@ -42,3 +42,4 @@
 - Sep 09: ideas
 - Sep 09: links
 - Sep 09: refs
+- Sep 09: notes
