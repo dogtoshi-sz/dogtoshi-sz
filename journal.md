@@ -43,3 +43,4 @@
 - Sep 09: links
 - Sep 09: refs
 - Sep 09: notes
+- Sep 09: snippets
