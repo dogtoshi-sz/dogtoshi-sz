@@ -50,3 +50,4 @@
 - Sep 21: snippets
 - Sep 21: notes
 - Sep 21: links
+- Sep 21: commands
