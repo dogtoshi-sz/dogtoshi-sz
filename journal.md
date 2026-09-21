@@ -47,3 +47,4 @@
 - Sep 09: commands
 - Sep 09: links
 - Sep 21: todo
+- Sep 21: snippets
