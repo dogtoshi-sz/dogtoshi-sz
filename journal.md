@@ -56,3 +56,4 @@
 - Sep 21: commands
 - Sep 25: commands
 - Sep 25: ideas
+- Sep 27: links
