@@ -60,3 +60,4 @@
 - Sep 28: todo
 - Sep 28: snippets
 - Oct 04: ideas
+- Oct 04: refs
