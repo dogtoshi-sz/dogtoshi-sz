@@ -68,3 +68,4 @@
 - Oct 08: scratch
 - Oct 09: todo
 - Oct 09: ideas
+- Oct 09: todo
