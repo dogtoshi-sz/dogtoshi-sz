@@ -67,3 +67,4 @@
 - Oct 08: ideas
 - Oct 08: scratch
 - Oct 09: todo
+- Oct 09: ideas
