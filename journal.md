@@ -64,3 +64,4 @@
 - Oct 08: scratch
 - Oct 08: ideas
 - Oct 08: snippets
+- Oct 08: ideas
