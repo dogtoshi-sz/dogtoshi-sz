@@ -62,3 +62,4 @@
 - Oct 04: ideas
 - Oct 04: refs
 - Oct 08: scratch
+- Oct 08: ideas
