@@ -70,3 +70,4 @@
 - Oct 09: ideas
 - Oct 09: todo
 - Oct 09: refs
+- Oct 12: refs
