@@ -72,3 +72,4 @@
 - Oct 09: refs
 - Oct 12: refs
 - Oct 13: notes
+- Oct 16: todo
