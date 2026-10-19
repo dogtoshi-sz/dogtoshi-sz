@@ -77,3 +77,4 @@
 - Oct 16: todo
 - Oct 16: ideas
 - Oct 18: notes
+- Oct 18: todo
