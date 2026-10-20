@@ -79,3 +79,4 @@
 - Oct 18: notes
 - Oct 18: todo
 - Oct 19: notes
+- Oct 19: commands
