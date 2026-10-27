@@ -82,3 +82,4 @@
 - Oct 19: commands
 - Oct 20: todo
 - Oct 23: snippets
+- Oct 26: scratch
