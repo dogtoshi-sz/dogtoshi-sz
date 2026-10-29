@@ -18,7 +18,7 @@
 
 **One API key to launch and trade memecoins.** No RPC node, no Jito client, no IPFS keys.
 Launch and trade on **pump.fun** and **PumpSwap** (Solana) and **pons** (Robinhood Chain) from a single HTTP API.
-The API builds unsigned transactions, your code signs locally, so keys never leave your machine. Made for humans and for AI agents.
+The API builds unsigned transactions and your code signs them. Made for humans and for AI agents.
 
 ```bash
 # a key in one call, then read the agent instructions
