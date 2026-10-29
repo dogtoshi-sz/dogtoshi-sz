@@ -30,20 +30,20 @@ curl "https://api.trenchy.tools/api/create-api-key?label=my-agent"
 <table>
   <tr>
     <td width="33%" align="center">
-      <a href="https://github.com/Trenchy-Tools/pumpfun-starter"><img src="./assets/social-pumpfun-starter.png" alt="pump.fun starter" width="100%"></a><br>
-      <b><a href="https://github.com/Trenchy-Tools/pumpfun-starter">pumpfun-starter</a></b><br>
+      <a href="https://github.com/Trenchy-Tools/trenchytools-pumpfun-launcher"><img src="./assets/social-pumpfun-starter.png" alt="pump.fun starter" width="100%"></a><br>
+      <b><a href="https://github.com/Trenchy-Tools/trenchytools-pumpfun-launcher">trenchytools-pumpfun-launcher</a></b><br>
       <sub>Solana · Jito-bundled launches with up to 16 buyers, snipers, holder auto-buys, custom pairs, Mayhem mode, timed sells, vanity mints</sub><br>
       <a href="https://pumpfun.trenchy.tools">▶ live demo</a>
     </td>
     <td width="33%" align="center">
-      <a href="https://github.com/Trenchy-Tools/pons-starter"><img src="./assets/social-pons-starter.png" alt="pons starter" width="100%"></a><br>
-      <b><a href="https://github.com/Trenchy-Tools/pons-starter">pons-starter</a></b><br>
+      <a href="https://github.com/Trenchy-Tools/trenchytools-pons-launcher"><img src="./assets/social-pons-starter.png" alt="pons starter" width="100%"></a><br>
+      <b><a href="https://github.com/Trenchy-Tools/trenchytools-pons-launcher">trenchytools-pons-launcher</a></b><br>
       <sub>Robinhood Chain · launch and trade on the pons curve and Uniswap v4, snipe-tax exempt buyers</sub><br>
       <a href="https://pons.trenchy.tools">▶ live demo</a>
     </td>
     <td width="33%" align="center">
-      <a href="https://github.com/Trenchy-Tools/wallet-mover"><img src="./assets/social-wallet-mover.png" alt="wallet mover" width="100%"></a><br>
-      <b><a href="https://github.com/Trenchy-Tools/wallet-mover">wallet-mover</a></b><br>
+      <a href="https://github.com/Trenchy-Tools/trenchytools-wallet-mover"><img src="./assets/social-wallet-mover.png" alt="wallet mover" width="100%"></a><br>
+      <b><a href="https://github.com/Trenchy-Tools/trenchytools-wallet-mover">trenchytools-wallet-mover</a></b><br>
       <sub>Create, fund, split and consolidate wallets across Solana, Robinhood Chain, Ethereum and BNB, direct or through an exchange</sub><br>
       <a href="https://mover.trenchy.tools">▶ live demo</a>
     </td>
