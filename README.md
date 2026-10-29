@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/trenchytoolz"><img src="https://img.shields.io/badge/X-@trenchytoolz-F2F2F2?style=flat-square&logo=x&logoColor=white&labelColor=0B0B0C" alt="X"></a>
+  <a href="https://x.com/trenchytools"><img src="https://img.shields.io/badge/X-@trenchytools-F2F2F2?style=flat-square&logo=x&logoColor=white&labelColor=0B0B0C" alt="X"></a>
   <a href="https://t.me/trenchytools"><img src="https://img.shields.io/badge/Telegram-trenchytools-F2F2F2?style=flat-square&logo=telegram&logoColor=white&labelColor=0B0B0C" alt="Telegram"></a>
   <a href="https://trenchy.tools/openapi.json"><img src="https://img.shields.io/badge/OpenAPI-3.1-F2F2F2?style=flat-square&logo=openapiinitiative&logoColor=white&labelColor=0B0B0C" alt="OpenAPI"></a>
   <a href="https://github.com/Trenchy-Tools"><img src="https://img.shields.io/badge/GitHub-Trenchy--Tools-F2F2F2?style=flat-square&logo=github&logoColor=white&labelColor=0B0B0C" alt="Trenchy-Tools org"></a>
@@ -50,7 +50,7 @@ curl "https://api.trenchy.tools/api/create-api-key?label=my-agent"
   </tr>
 </table>
 
-All three share one wallet folder on your Desktop: a wallet made in one is usable in the others, and every key is written to disk before it can hold anything.
+Keys are files in the clone's `wallets/` folder (git-ignored), written to disk before a wallet can hold anything. Point `WALLET_BACKUP_DIR` of all three at one folder and a wallet made in one is usable in the others.
 
 ## 🧰 What the API covers
 
