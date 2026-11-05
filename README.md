@@ -17,7 +17,7 @@
 ## 👋 I'm SZ — I build [TrenchyTools](https://trenchy.tools)
 
 **One API key to launch and trade memecoins.** No RPC node, no Jito client, no IPFS keys.
-Launch and trade on **pump.fun** and **PumpSwap** (Solana) and **pons** (Robinhood Chain) from a single HTTP API.
+Launch and trade on **pump.fun** and **PumpSwap** (Solana), **pons** (Robinhood Chain) and **Ascend** (Elysium, the Hyperliquid L2 — experimental) from a single HTTP API.
 The API builds unsigned transactions and your code signs them. Made for humans and for AI agents.
 
 ```bash
@@ -29,23 +29,29 @@ curl "https://api.trenchy.tools/api/create-api-key?label=my-agent"
 
 <table>
   <tr>
-    <td width="33%" align="center">
+    <td width="25%" align="center">
       <a href="https://github.com/Trenchy-Tools/trenchytools-pumpfun-launcher"><img src="./assets/social-pumpfun-starter.png" alt="pump.fun starter" width="100%"></a><br>
       <b><a href="https://github.com/Trenchy-Tools/trenchytools-pumpfun-launcher">trenchytools-pumpfun-launcher</a></b><br>
       <sub>Solana · Jito-bundled launches with up to 16 buyers, snipers, holder auto-buys, custom pairs, Mayhem mode, timed sells, vanity mints</sub><br>
       <a href="https://pumpfun.trenchy.tools">▶ live demo</a>
     </td>
-    <td width="33%" align="center">
+    <td width="25%" align="center">
       <a href="https://github.com/Trenchy-Tools/trenchytools-pons-launcher"><img src="./assets/social-pons-starter.png" alt="pons starter" width="100%"></a><br>
       <b><a href="https://github.com/Trenchy-Tools/trenchytools-pons-launcher">trenchytools-pons-launcher</a></b><br>
       <sub>Robinhood Chain · launch and trade on the pons curve and Uniswap v4, snipe-tax exempt buyers</sub><br>
       <a href="https://pons.trenchy.tools">▶ live demo</a>
     </td>
-    <td width="33%" align="center">
+    <td width="25%" align="center">
       <a href="https://github.com/Trenchy-Tools/trenchytools-wallet-mover"><img src="./assets/social-wallet-mover.png" alt="wallet mover" width="100%"></a><br>
       <b><a href="https://github.com/Trenchy-Tools/trenchytools-wallet-mover">trenchytools-wallet-mover</a></b><br>
       <sub>Create, fund, split and consolidate wallets across Solana, Robinhood Chain, Ethereum and BNB, direct or through an exchange</sub><br>
       <a href="https://mover.trenchy.tools">▶ live demo</a>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://github.com/Trenchy-Tools/trenchytools-elysium-launcher"><img src="./assets/social-elysium-starter.png" alt="Elysium starter" width="100%"></a><br>
+      <b><a href="https://github.com/Trenchy-Tools/trenchytools-elysium-launcher">trenchytools-elysium-launcher</a></b> <sub>⚗️ experimental</sub><br>
+      <sub>Elysium (Hyperliquid L2) · launch on Ascend, bundle, stagger and auto-sell straight against the chain over rotating relays, with pre-signed exits</sub><br>
+      <a href="https://elysium.trenchy.tools">▶ live demo</a>
     </td>
   </tr>
 </table>
@@ -58,6 +64,7 @@ Keys are files in the clone's `wallets/` folder (git-ignored), written to disk b
 |---|---|
 | 🟢 **Solana** | pump.fun create / buy / sell, custom pairs (coins priced in stocks, USDC or other coins), Mayhem mode, PumpSwap after graduation, Jito bundles, vanity mints, creator fees, live websocket |
 | 🟩 **Robinhood Chain** | pons create / buy / sell on the curve and on Uniswap v4, live trades |
+| ⚗️ **Elysium** *(experimental)* | Ascend launches on the Hyperliquid L2 (chain 99901, HYPE gas): create, buy, sell, creator-fee claims, a per-wallet trading desk and a live relay picker. Pre-public-mainnet. |
 | 👛 **Wallets** | direct or exchange-routed transfers, same chain or cross-chain, live venue health |
 | 🤖 **Agents** | `AGENTS.md`, `openapi.json`, every error with a hint and a docs link. `openclaw skills install trenchytools` |
 
