@@ -54,16 +54,34 @@ curl "https://api.trenchy.tools/api/create-api-key?label=my-agent"
       <a href="https://elysium.trenchy.tools">▶ live demo</a>
     </td>
   </tr>
+  <tr>
+    <td width="25%" align="center">
+      <a href="https://github.com/Trenchy-Tools/trenchytools-bnb-launcher"><img src="./assets/social-bnb-starter.png" alt="BNB starter" width="100%"></a><br>
+      <b><a href="https://github.com/Trenchy-Tools/trenchytools-bnb-launcher">trenchytools-bnb-launcher</a></b><br>
+      <sub>BNB Chain · launch tax tokens on Flap with bundled buyers, a volume maker and auto-sell; trade any Flap, four.meme or PancakeSwap coin</sub><br>
+      <a href="https://bnb.trenchy.tools">▶ live demo</a>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://github.com/Trenchy-Tools/trenchytools-base-launcher"><img src="./assets/social-base-starter.png" alt="Base starter" width="100%"></a><br>
+      <b><a href="https://github.com/Trenchy-Tools/trenchytools-base-launcher">trenchytools-base-launcher</a></b><br>
+      <sub>Base · Clanker V5 launches with a dev buy, bundled buyers after the anti-snipe window, creator-fee claims; Uniswap v4 trading</sub><br>
+      <a href="https://base.trenchy.tools">▶ live demo</a>
+    </td>
+    <td width="25%"></td>
+    <td width="25%"></td>
+  </tr>
 </table>
 
-Keys are files in the clone's `wallets/` folder (git-ignored), written to disk before a wallet can hold anything. Point `WALLET_BACKUP_DIR` of all three at one folder and a wallet made in one is usable in the others.
+Keys are files in the clone's `wallets/` folder (git-ignored), written to disk before a wallet can hold anything. Point `WALLET_BACKUP_DIR` of every starter at one folder and a wallet made in one is usable in the others.
 
 ## 🧰 What the API covers
 
 | | |
 |---|---|
 | 🟢 **Solana** | pump.fun create / buy / sell, custom pairs (coins priced in stocks, USDC or other coins), Mayhem mode, PumpSwap after graduation, Jito bundles, vanity mints, creator fees, live websocket |
-| 🟩 **Robinhood Chain** | pons create / buy / sell on the curve and on Uniswap v4, live trades |
+| 🟩 **Robinhood Chain** | pons create / buy / sell on the curve and on Uniswap v4, live trades, P/L |
+| 🟡 **BNB Chain** | Flap and four.meme create / buy / sell, PancakeSwap V2, creator-fee dispatch, trades, P/L |
+| 🔵 **Base** | Clanker V5 create (dev buy included) / buy / sell on Uniswap v4, creator-fee claims, trades, P/L |
 | ⚗️ **Elysium** *(experimental)* | Ascend launches on the Hyperliquid L2 (chain 99901, HYPE gas): create, buy, sell, creator-fee claims, a per-wallet trading desk and a live relay picker. Pre-public-mainnet. |
 | 👛 **Wallets** | direct or exchange-routed transfers, same chain or cross-chain, live venue health |
 | 🤖 **Agents** | `AGENTS.md`, `openapi.json`, every error with a hint and a docs link. `openclaw skills install trenchytools` |
