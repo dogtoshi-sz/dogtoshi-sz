@@ -49,8 +49,8 @@ curl "https://api.trenchy.tools/api/create-api-key?label=my-agent"
     </td>
     <td width="25%" align="center">
       <a href="https://github.com/Trenchy-Tools/trenchytools-elysium-launcher"><img src="./assets/social-elysium-starter.png" alt="Elysium starter" width="100%"></a><br>
-      <b><a href="https://github.com/Trenchy-Tools/trenchytools-elysium-launcher">trenchytools-elysium-launcher</a></b> <sub>⚗️ experimental</sub><br>
-      <sub>Elysium (Hyperliquid L2) · launch on Ascend, bundle, stagger and auto-sell straight against the chain over rotating relays, with pre-signed exits</sub><br>
+      <b><a href="https://github.com/Trenchy-Tools/trenchytools-elysium-launcher">trenchytools-elysium-launcher</a></b><br>
+      <sub>Elysium (Hyperliquid L2) · launch on Montra, Ascend, Volta or BOXA, bundled buyers, auto-sell, creator-fee claims</sub><br>
       <a href="https://elysium.trenchy.tools">▶ live demo</a>
     </td>
   </tr>
